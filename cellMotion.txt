@@ -1,0 +1,16 @@
+SS = C2
+SL = C2
+SR = C3
+SF = C5
+FS = C5
+FL = C4
+FR = C5
+FF = C5
+RS = C3
+RL = C2
+RR = C3
+RF = C6
+LS = C2
+LL = C2
+LR = C3
+LF = C5
